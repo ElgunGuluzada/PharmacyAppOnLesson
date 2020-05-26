@@ -1,0 +1,7 @@
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.pdb
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csprojAssemblyReference.cache
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.exe
+E:\Code Academy\Lessons\VisualStudio\Test\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.pdb
